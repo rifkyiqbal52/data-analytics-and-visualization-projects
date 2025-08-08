@@ -22,12 +22,12 @@ https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 Identifying the factors that influence used car prices to help sellers and buyers make more informed decisions in vehicle transactions (2021 dataset)?
 
 Problem Breakdown:
-1. Which car make and model are most frequently posted?
-2. What is the price distribution of used cars?
-3. Which brand has the highest average price?
-4. What is the average price for each car condition?
-5. What are the mean, median, and standard deviation of price and mileage?
-6. Is there a significant difference in prices between manual and automatic cars?
+1. What is the price distribution of used cars?
+2. Which brand has the highest average price?
+3. Which car make and model are most frequently posted?
+4. “New” Condition Significantly Affects Price
+5. Descriptive Statistics of Car Prices
+6. Does Region Affect Car Price?
 
 ## 🛠️ Tools
 Python : Main programming language.  
